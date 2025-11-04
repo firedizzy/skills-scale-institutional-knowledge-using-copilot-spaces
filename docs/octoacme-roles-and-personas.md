@@ -79,3 +79,30 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+
+
+
+
+
+
+
+## Additional Roles and Personas
+
+### Project Risk Champion
+- **Responsibilities:** Monitor and report risks; support project manager in risk mitigation.
+- **Interactions:** Works with team leads, stakeholders, project manager for risk awareness and escalation.
+
+### Documentation Specialist
+- **Responsibilities:** Maintain clarity/accuracy in project documentation; update onboarding material.
+- **Interactions:** Coordinates with subject-matter experts, team leads.
+
+### QA Advocate
+- **Responsibilities:** Champion quality assurance best practices; define “done” for deliverables.
+- **Interactions:** Works with engineering and product teams.
+
+### Stakeholder Liaison
+- **Responsibilities:** Gather stakeholder requirements/feedback; communicate status and decisions.
+- **Interactions:** Main contact for external stakeholders; collaborates with the project manager.
+
+---
+_These updates clarify accountability and support improved outcomes by reducing ambiguity and improving ownership of critical roles._
